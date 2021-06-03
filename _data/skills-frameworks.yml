@@ -8,26 +8,13 @@
 - name: Angular
   weight: 5
 
-- name: AngularJS
-  weight: 3
+- name: Spring (Boot)
+  weight: 5
 
-- name: React
-  weight: 4
-
-- name: Node
-  weight: 1
-
-- name: Flutter
+- name: Apache Spark
+  weight: 2
+  
+- name: JUnit
   weight: 2
 
-- name: Express
-  weight: 3
 
-- name: Django
-  weight: 1
-
-- name: Spring
-  weight: 2
-
-- name: Rails
-  weight: 4

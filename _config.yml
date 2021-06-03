@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hi, my name is Sebastian! I'm a Computer Science student and Software Developer currently situated in Vienna.
+about_me_description: Hi, my name is Sebastian! I'm a Computer Science student and Software Developer currently situated in Vienna. I am currently doing my Masters in the field of Scientific Computing. Paralelly, I'm working as a Java Developer in a InsurTech company. But apart form Java, I am also interested in several other languages and technologies, like Python, Typescript, Scala, Angular or Kotlin. I am also getting in touch with machine learning a bit. 
 
 # SKILLS SECTION
 # show_skills_card:
@@ -63,7 +63,7 @@ show_projects_card: true
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
-show_projects: false
+show_projects: true
 # projects_title: The will be displayed as the title of your projects
 projects_title: Projects
 # show_os_projects:
@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: If you want to contact me, you can simply write me an email. Alternatively, feel free to message me on LinkedIn. You can also check out my other profiles with the buttons below. 
 
 # GITHUB-METADATA
 # Set this to your forked repository
@@ -103,8 +103,11 @@ projects:
     forks: true
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
+        - spring-boot-angular-template
+        - the-amazing-cloud-storage
+        - GamerQuiz
+
     # - repo1-to-be-excluded
-    # - repo2-to-be-excluded
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
