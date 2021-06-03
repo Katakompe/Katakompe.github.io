@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Hi, my name is Sebastian! I'm a Computer Science student and Software Developer currently situated in Vienna. I am currently doing my Masters in the field of Scientific Computing. Paralelly, I'm working as a Java Developer in a InsurTech company. But apart form Java, I am also interested in several other languages and technologies, like Python, Typescript, Scala, Angular or Kotlin. I am also getting in touch with machine learning a bit. 
+about_me_description: Hi, my name is Sebastian! I'm a Computer Science student and Software Developer currently situated in Vienna. I am currently doing my Master's in the field of Scientific Computing. Paralelly, I'm working as a Java Developer in an InsurTech company. But apart from Java, I am also interested in several other languages and technologies, like Python, Typescript, Scala, Angular or Kotlin. I am also getting in touch with machine learning a bit. 
 
 # SKILLS SECTION
 # show_skills_card:
