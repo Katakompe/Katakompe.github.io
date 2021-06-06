@@ -13,6 +13,9 @@
 
 - name: Scrum
   weight: 3
+  
+- name: Gradle
+  weight: 3
 
 - name: GitLab
   weight: 1
