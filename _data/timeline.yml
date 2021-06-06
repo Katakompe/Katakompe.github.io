@@ -32,10 +32,14 @@
   title-url: https://informatik.univie.ac.at/en/
   date: 2018 - Present
   subtitle: M.Sc. Computer Science
+  tags:
+    - tag: Scientific Computing
   timeline-side: right
 
 - title: University of Vienna
   title-url: https://informatik.univie.ac.at/en/
   date: 2015 - 2018
   subtitle: B.Sc. Computer Science
+  tags:
+    - tag: Medical Informatics
   timeline-side: left
